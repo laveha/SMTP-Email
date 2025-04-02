@@ -29,8 +29,6 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText emailTo, emailSubject, emailMessage;
     private Button sendButton;
-    private String senderEmail = "isip_i.i.kovykov@mpt.ru";
-    private String senderPassword = "@RussianImpireforever0079";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
